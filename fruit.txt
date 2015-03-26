@@ -1,3 +1,4 @@
+pineapple
 apple
 banana
 orange
@@ -5,4 +6,4 @@ lemon
 lime
 cherry
 watermelon
-tomato?
+tomato
